@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const initialMessages = {
         itch: 'こんにちは、イッチです!',
-        neeta: 'こんにちは、イッチ! 今日はどうですか？'
+        neeta: 'こんにちは、イッチ! 今日は、わたしたちで新たな言語を作りましょう。具体的な手順はどうしますか？'
     };
 
     const apiKeys = {
